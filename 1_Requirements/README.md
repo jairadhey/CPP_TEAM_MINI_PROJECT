@@ -30,7 +30,7 @@ HR03|Hard Disk(2GB)|IMPLEMENTED
 HR04|Availabity of game anytime|IMPLEMENTED
 
 # Low level requirements :
-ID|DESCRIPTION|HLRID|STATUS
---|------------|----|------
+ID|DESCRIPTION|STATUS
+--|------------|------
 LR01|User can play with computer|IMPLEMENTED
 LR02|2 Users can play at a time|IMPLEMENTED
