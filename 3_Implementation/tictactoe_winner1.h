@@ -1,9 +1,9 @@
 #define COMPUTER 1
-void declareWinner(int whoseTurn)
+void declareWinner1(int whoseTurn)
 {
     if (whoseTurn == COMPUTER)
         printf("COMPUTER has won\n");
     else
-        printf("HUMAN has won\n");
+        printf("PERSON_1 has won\n");
     return;
 }
