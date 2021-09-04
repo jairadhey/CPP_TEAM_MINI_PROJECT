@@ -34,3 +34,6 @@ ID|DESCRIPTION|STATUS
 --|------------|------
 LR01|User can play with computer|IMPLEMENTED
 LR02|2 Users can play at a time|IMPLEMENTED
+
+# SWOT Analysis
+![image (2)](https://user-images.githubusercontent.com/86196905/132096248-39104c63-6183-4453-8931-82f9ed79ce33.jpg)
