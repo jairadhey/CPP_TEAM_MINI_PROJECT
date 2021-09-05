@@ -7,7 +7,7 @@ As with any software package thatprovides asimple interface for the user,TICTACT
 Ps no|Name
 --------|-------------------
 99005841|Bysani Rakesh
-99005831|Radhe Shyam Pandey
+99005831|Radhey Shyam Pandey
 ## Folder Structure 
 
 Sr_no |Explanation.
